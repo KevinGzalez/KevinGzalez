@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Kevin!
 
 💻 I'm a Software Engineering student passionate about building real-world systems. <br/>
-🛠️ I work with technologies like C#, PHP, MySQL, Blazor, and .NET.  <br/>
-🌐 I also use tools like Selenium, XAMPP, and APIs for automation and integrations. <br/>  
-📈 Learning every day about backend development, database design, and full-stack apps. <br/>  
-🤝 Open to collaborating on projects and solving interesting problems. <br/>
+🛠️ I work with technologies like C#, PHP, MySQL, Blazor, and .NET.<br/>
+🌐 I also use tools like Selenium, XAMPP, and APIs for automation and integrations.<br/> 
+📈 Learning every day about backend development, database design, and full-stack apps.<br/>  
+🤝 Open to collaborating on projects and solving interesting problems.<br/> 
 
 
 
